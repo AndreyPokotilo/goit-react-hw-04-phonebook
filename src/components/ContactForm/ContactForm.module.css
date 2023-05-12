@@ -1,0 +1,48 @@
+.inputForm {
+display: block;
+}
+
+.inputForm div {
+    padding-bottom: 40px;
+}
+
+.nameInputSpan {
+    margin: 0px;
+    padding: 0px;
+    font-size: 30px;
+    font-weight: 500;
+    vertical-align: bottom;
+}
+
+.nameInput {
+    font-size: 20px;
+    width: 200px;
+    height: 30px;
+    margin-left: 43px;
+    border-radius: 5px;
+    
+}
+
+.numberInputSpan {
+    margin: 0px;
+    padding: 0px;
+    font-size: 30px;
+    font-weight: 500;
+    vertical-align: bottom;
+}
+
+.numberInput {
+    font-size: 20px;
+    width: 200px;
+    height: 30px;
+    margin-left: 14px;
+    border-radius: 5px;
+}
+
+.btnForm {
+    width: 150px;
+    height: 30px;
+    font-size: 20px;
+    background-color: rgb(136, 184, 150);
+    border-radius: 5px;
+}
